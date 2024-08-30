@@ -15,7 +15,7 @@ function sunOfNaturalNumbers(num){
 
     }
 console.log(sunOfNaturalNumbers(5))
-// Q2 sum of the digits of a number 1234 ans 1+2+3+4 like  UPDAE
+// Q2 sum of the digits of a number 1234 ans ccsasa1+2+3+4 like  UPDAE
 
  function digitCalculation(num) {
 let sum= 0;
@@ -34,7 +34,7 @@ function exampleFunction(a,b) {
 }
 
 const result = exampleFunction(5,5); 
-console.log(exampleFunction(5, 5), "===ss=");
+console.log(exampleFunction(5, 5), "===ssss=");
 
 function calculateTotalCost(subtotal, taxRate, shippingCost) {
   const taxAmount = subtotal * taxRate;
