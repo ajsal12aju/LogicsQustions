@@ -34,7 +34,7 @@ function exampleFunction(a,b) {
 }
 
 const result = exampleFunction(5,5); 
-console.log(exampleFunction(5, 5), "===ssss=");
+console.log(exampleFunction(5, 5), "===datas=");
 
 function calculateTotalCost(subtotal, taxRate, shippingCost) {
   const taxAmount = subtotal * taxRate;
