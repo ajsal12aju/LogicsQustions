@@ -9,7 +9,7 @@ function sunOfNaturalNumbers(num){
     // another methord
     return num*(num+1)/2;
     // behind the sence its happenig like this
-    // Sum= 5 * (5+1) / 2 ;vd
+    // Sum= 5 * (5+1) / 2 ;vdsfthdr
         //  6*5 = 30 /2 = 15f
         // asdded updated datas
 
