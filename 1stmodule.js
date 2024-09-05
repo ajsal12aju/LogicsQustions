@@ -36,10 +36,10 @@ function exampleFunction(a,b) {
 }
 
 const result = exampleFunction(5,5); 
-console.log(exampleFunction(5, 5), "===datas=");
+console.log(exampleFunction(5, 5), "===daffftas=");
 
 function calculateTotalCost(subtotal, taxRate, shippingCost) {
-  const taxAmount = subtotal * taxRate;
+  const taxAmount = subtotal * taxRate; 
   const totalCost = subtotal + taxAmount + shippingCost;
   return totalCost;
 }
