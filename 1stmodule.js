@@ -17,7 +17,7 @@ function sunOfNaturalNumbers(num){
 console.log(sunOfNaturalNumbers(5))
 console.log(sunOfNaturalNumbers(5))
 
-// Q2 sum of the digits of a number 1234 ans ccsasa1+2+3+4 like  UPDAE
+// Q2 sum of the digits of a number 1234654 ans ccsasa1+2545+3+4 like  UPDAE
 
  function digitCalculation(num) {
 let sum= 0;
